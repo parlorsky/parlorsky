@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parlorsky
-- 👀 I’m interested in machine learning and data analysis
+- 👀 I’m interested in ML & DE
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 telegram @parlorsky
 
