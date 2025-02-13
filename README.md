@@ -1,4 +1,4 @@
-- 👀 I’m interested in ML & DE
+- 👀 I’m interested in ML & DL
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 telegram @sdflux
 
