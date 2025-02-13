@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @parlorsky
 - 👀 I’m interested in ML & DE
 - 💞️ I’m looking to collaborate on Kaggle
-- 📫 telegram @parlorsky
+- 📫 telegram @sdflux
 
 <!---
 parlorsky/parlorsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
