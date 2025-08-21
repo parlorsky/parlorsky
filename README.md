@@ -1,2 +1,2 @@
-Senior MLE (NLP) / diving into quantitative trading
-telegram @sdflux
+- Senior MLE (NLP) / diving into quantitative trading
+- telegram @sdflux
